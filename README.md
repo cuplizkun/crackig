@@ -23,6 +23,6 @@ git clone https://github.com/cuplizkun/crackig
 
 Cara Menjalankan Scripts
 
-cd ighe
+cd crackig
 
 python run.py
