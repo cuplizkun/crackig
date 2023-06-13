@@ -20,7 +20,7 @@ pip install futures
 
 git clone https://github.com/cuplizkun/crackig
 
-########################
+
 Cara Menjalankan Scripts
 
 cd ighe
